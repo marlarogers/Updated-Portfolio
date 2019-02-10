@@ -1,0 +1,53 @@
+
+body {
+    background-image: url("https://app.meetsoci.com/uploads/account/1585/pp6pT-sIVAZ.jpg");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Josefin Slab';
+
+}
+
+#header {
+    font-family: 'Megrim', sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.navbar {
+    font-family: 'Dawning of a New Day', sans-serif;
+    font-size: 20px;
+    text-align: center;  
+}
+
+.page-title {
+    font-family: 'Dawning of a New Day';
+    font-size: 40px;
+    /* font-weight: bold; */
+}
+
+.body-text {
+    font-family: 'Josefin Slab';
+    text-align: justify;
+}
+
+.container { 
+    background-color: white;
+}
+
+
+.link {
+    color: grey; 
+}
+
+.link:hover {
+    color: grey; 
+    text-decoration: underline;
+}
+
+#submit {
+    background-color: grey;
+    border-color: grey;
+    font-family: 'Josefin Slab';
+}
